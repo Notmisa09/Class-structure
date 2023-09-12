@@ -11,7 +11,10 @@ namespace POO_PRACTICE.Class.Root2
     {
         public string NombreAgencia { get; set; }
 
-        public Administrativo() { }
+        public Administrativo(string nombre) 
+        {
+            Nombre = nombre;
+        }
 
         public override void Saludar()
         {

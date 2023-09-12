@@ -12,7 +12,10 @@ namespace POO_PRACTICE.Class.Root1
         public List<string> Materias { get; set; }
         public int IdEstudiante { get; set; }
 
-        public Ex_alumno() { }
+        public Ex_alumno(string nombre) 
+        {
+            Nombre = nombre;
+        }
 
         public override void Saludar()
         {
