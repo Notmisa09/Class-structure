@@ -11,7 +11,7 @@ namespace POO_PRACTICE.Class.Root1
     {
         public string Nombre { set; get; }
         public string Apellido { get; set; }
-        public int edad { get; set; }
+        public int Edad { get; set; }
 
         public virtual void Saludar()
         {

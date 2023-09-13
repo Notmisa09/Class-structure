@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\POO_PRACTICE",
+    "\\POO_PRACTICE\\POO_PRACTICE",
+    "\\POO_PRACTICE\\POO_PRACTICE\\Class",
+    "\\POO_PRACTICE\\POO_PRACTICE\\Class\\Root2"
   ],
-  "SelectedNode": "\\C:\\.GIT",
+  "SelectedNode": "\\POO_PRACTICE\\POO_PRACTICE\\Class\\Root2\\Administrativo.cs",
   "PreviewInSolutionExplorer": false
 }

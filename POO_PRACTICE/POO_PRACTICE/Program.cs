@@ -20,6 +20,9 @@ namespace POO_PRACTICE
             Maestro JuanPerez = new Maestro("Juan Perez");
             JuanPerez.Saludar();
 
+            Administrador Nose = new Administrador("Edwind");
+            Nose.Saludar();
+
             Console.ReadKey();
         }
     }

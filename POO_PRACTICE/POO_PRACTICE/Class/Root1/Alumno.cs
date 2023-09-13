@@ -8,13 +8,14 @@ namespace POO_PRACTICE.Class.Root1
 {
     public class Alumno : MiembroDeLaComunidad
     {
-        public string id_estudiante { get; set; }
+        public string IdEstudiante { get; set; }
         public List<int> Calificaciones { get; set; }
         public List<string> Materias { get; set; }
 
-        public Alumno(string nombre)
+        public Alumno(string nombre, int edad)
         {
             Nombre = nombre;
+            Edad = edad
         }
 
         public override void Saludar()
