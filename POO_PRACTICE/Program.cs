@@ -23,6 +23,12 @@ namespace POO_PRACTICE
             Administrador Nose = new Administrador("Edwind");
             Nose.Saludar();
 
+            Maestro Felix = new Maestro("Felix Misael");
+            Felix.Saludar();
+
+            Administrador admin1= new Administrador("Mora");
+            admin1.Saludar();
+
             Console.ReadKey();
         }
     }

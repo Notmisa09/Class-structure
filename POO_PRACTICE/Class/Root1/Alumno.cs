@@ -12,11 +12,9 @@ namespace POO_PRACTICE.Class.Root1
         public List<int> Calificaciones { get; set; }
         public List<string> Materias { get; set; }
 
-        public Alumno() { }
-        public Alumno(string nombre, int edad)
+        public Alumno(string nombre) 
         {
             Nombre = nombre;
-            Edad = edad;
         }
 
         public override void Saludar()
