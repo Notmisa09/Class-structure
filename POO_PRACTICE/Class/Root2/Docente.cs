@@ -7,7 +7,7 @@ using POO_PRACTICE.Class.Root1;
 
 namespace POO_PRACTICE.Class.Root2
 {
-    public abstract class Docente : Empleado
+    public class Docente : Empleado
     {
         public int Id_docente { get; set; }
         public string Materias { get; set; }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\.GIT\\POO_PRACTICE\\POO_PRACTICE\\POO_PRACTICE.csproj": {}
+    "C:\\.POOPRACTICE\\POO_PRACTICE\\POO_PRACTICE.csproj": {}
   },
   "projects": {
-    "C:\\.GIT\\POO_PRACTICE\\POO_PRACTICE\\POO_PRACTICE.csproj": {
+    "C:\\.POOPRACTICE\\POO_PRACTICE\\POO_PRACTICE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\.GIT\\POO_PRACTICE\\POO_PRACTICE\\POO_PRACTICE.csproj",
+        "projectUniqueName": "C:\\.POOPRACTICE\\POO_PRACTICE\\POO_PRACTICE.csproj",
         "projectName": "POO_PRACTICE",
-        "projectPath": "C:\\.GIT\\POO_PRACTICE\\POO_PRACTICE\\POO_PRACTICE.csproj",
+        "projectPath": "C:\\.POOPRACTICE\\POO_PRACTICE\\POO_PRACTICE.csproj",
         "packagesPath": "C:\\Users\\misam\\.nuget\\packages\\",
-        "outputPath": "C:\\.GIT\\POO_PRACTICE\\POO_PRACTICE\\obj\\",
+        "outputPath": "C:\\.POOPRACTICE\\POO_PRACTICE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\misam\\AppData\\Roaming\\NuGet\\NuGet.Config",

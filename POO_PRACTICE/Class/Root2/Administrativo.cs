@@ -7,7 +7,7 @@ using POO_PRACTICE.Class.Root1;
 
 namespace POO_PRACTICE.Class.Root2
 {
-    internal class Administrativo : Empleado
+    public class Administrativo : Empleado
     {
         public string NombreAgencia { get; set; }
 
